@@ -1,1 +1,3 @@
 Er det som skjer i dag.
+
+Endrer fila fra github.com.
